@@ -13,13 +13,6 @@ class HomePage extends StatelessWidget {
           builder: (BuildContext context, WearShape shape, Widget? child) {
             return const QrPageView();
           },
-          child: AmbientMode(
-            builder: (BuildContext context, WearMode mode, Widget? child) {
-              return Text(
-                'Mode: ${mode == WearMode.active ? 'Active' : 'Ambient'}',
-              );
-            },
-          ),
         ),
       ),
     );
