@@ -20,4 +20,4 @@ A new Flutter WearOS project.
 - [Medium - Flutter Blogs](https://mrtkarakis.medium.com)
 
 ## Screen Recoriding
-![![website](./readme_gif/mertkarakis_wearos.gif)]
+![website](./readme_gif/mertkarakis_wearos.gif)
