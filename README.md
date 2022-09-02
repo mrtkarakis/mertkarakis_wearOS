@@ -4,14 +4,14 @@ A new Flutter WearOS project.
  
 ## Connect with me
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mrtkarakis#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mrtkarakis#gh-dark-mode-only)
+[![website](./readme_image/twitter-light.svg)](https://twitter.com/mrtkarakis#gh-light-mode-only)
+[![website](./readme_image/twitter-dark.svg)](https://twitter.com/mrtkarakis#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/mert-karakış-60622320a/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/mert-karakış-60622320a/#gh-dark-mode-only)
+[![website](./readme_image/linkedin-light.svg)](https://www.linkedin.com/in/mert-karakış-60622320a/#gh-light-mode-only)
+[![website](./readme_image/linkedin-dark.svg)](https://www.linkedin.com/in/mert-karakış-60622320a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/mrtkarakis/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/mrtkarakis/#gh-dark-mode-only)
+[![website](./readme_image/instagram-light.svg)](https://www.instagram.com/mrtkarakis/#gh-light-mode-only)
+[![website](./readme_image/instagram-dark.svg)](https://www.instagram.com/mrtkarakis/#gh-dark-mode-only)
 
 
 ## 📕 Latest Blog Posts
